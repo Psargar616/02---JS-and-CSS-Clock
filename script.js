@@ -21,6 +21,8 @@ setInterval(() => {
   hour_hand.style.transform = `rotate(${hrotation}deg)`;
   minute_hand.style.transform = `rotate(${mrotation}deg)`;
   second_hand.style.transform = `rotate(${srotation}deg)`;
+  let sound = new Audio("clock-ticking.mp3");
+  sound.play();
 }, 1000);
 
 
