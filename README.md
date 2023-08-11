@@ -6,6 +6,7 @@ Created this awesome Analog Clock using HTML, CSS, and JS.
 
 ![Project Screenshot](Screenshots/solution.png)
 
+[Demo link](https://js-css-clock-soln.netlify.app/)
 
 
 In this project learned about
