@@ -47,7 +47,7 @@ function setTime() {
   hour_hand.style.transform = `rotate(${hours_to_degree}deg)`;
 
   let sound = new Audio("clock-ticking.mp3");
-  // sound.play();
+  sound.play();
 }
 
 setInterval(setTime, 1000);
