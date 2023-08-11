@@ -4,7 +4,8 @@ This is day two of #JavaScript30 challenge
 
 Created this awesome Analog Clock using HTML, CSS, and JS.
 
-Demo Link
+![Demo Link](Screenshots/solution.png)
+
 
 In this project learned about
 - Date() in JS
